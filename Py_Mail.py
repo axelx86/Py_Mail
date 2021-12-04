@@ -46,7 +46,7 @@ filename = os.path.basename(filepath)
 # Настройки подключения
 SMTPserver = 'smtp.yandex.ru' 								# SMTP сервер яндекса как пример
 mailer = 'your_e-mail@maildomain.ru'						# Отправитель
-destination = ['destination@mail.ru']						# Получател(и)
+destination = ['destination@mail.ru']						# Получатель(и)
 sendto = 'destination@mail.ru'								# Адресат
 USERNAME = "your_login"										# Логин
 PASSWORD = "your_pass"										# Пароль
